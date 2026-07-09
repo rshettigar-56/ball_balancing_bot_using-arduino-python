@@ -182,7 +182,7 @@ The complete project report, wiring diagrams, and implementation details are ava
 
 ## 👨‍💻 Authors
 
-**Rishit U. Shettigar**  
+**Rishit U Shettigar**  
 Department of Electronics & Communication Engineering  
 NMAM Institute of Technology
 
